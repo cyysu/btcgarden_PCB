@@ -1,0 +1,14 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sat Oct 19 20:56:45 2013
+\t (00:00:01)         Host=CCLAB2-PC User=cclab2 Pid=8920 CPUs=2
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 653
+\i (00:00:03) trapsize 641
+\i (00:00:03) trapsize 655
+\i (00:00:04) trapsize 1057
+\i (00:00:04) generaledit 
+\i (00:00:08) opencd C:/Users/cclab2/Desktop/PCB_V1_FINAL/CPU_BOARD-0912-3/BRD/CPU_BOARD-0912.brd 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 427
+\t (00:00:08)     Journal end - Sat Oct 19 20:56:53 2013
