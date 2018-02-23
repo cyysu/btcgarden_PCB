@@ -1,0 +1,67 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\hash_1009_final.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\cclab2\desktop\to ruyi\dsn\hash_1009_final.dsn")
+      (Path "Design Resources"
+         "c:\users\cclab2\desktop\to ruyi\dsn\hash_1009_final.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 235"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1761 225 776")
+        (Scroll "1212 486")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\CCLAB2\DESKTOP\TO RUYI\DSN\HASH_1009_FINAL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "power_a"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 250 1786 250 801")
+        (Scroll "1252 402")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\CCLAB2\DESKTOP\TO RUYI\DSN\HASH_1009_FINAL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "power_b"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 275 1811 275 826")
+        (Scroll "1492 496")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\CCLAB2\DESKTOP\TO RUYI\DSN\HASH_1009_FINAL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "power_c"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 1536 0 551")
+        (Scroll "2388 930")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\CCLAB2\DESKTOP\TO RUYI\DSN\HASH_1009_FINAL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "power_d")))
+  (MPSSessionName "cclab2"))
