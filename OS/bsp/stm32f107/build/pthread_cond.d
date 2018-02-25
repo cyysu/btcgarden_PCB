@@ -1,0 +1,15 @@
+.\build\pthread_cond.o: ..\..\components\pthreads\pthread_cond.c
+.\build\pthread_cond.o: ..\..\components\pthreads\pthread.h
+.\build\pthread_cond.o: ..\..\include\rtthread.h
+.\build\pthread_cond.o: ..\..\include\rtdef.h
+.\build\pthread_cond.o: .\rtconfig.h
+.\build\pthread_cond.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\pthread_cond.o: ..\..\include\rtdebug.h
+.\build\pthread_cond.o: ..\..\include\rtservice.h
+.\build\pthread_cond.o: ..\..\include\rtm.h
+.\build\pthread_cond.o: ..\..\include\rtthread.h
+.\build\pthread_cond.o: ..\..\components\pthreads\posix_types.h
+.\build\pthread_cond.o: d:\Keil\ARM\RV31\INC\stddef.h
+.\build\pthread_cond.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\pthread_cond.o: d:\Keil\ARM\RV31\INC\time.h
+.\build\pthread_cond.o: ..\..\components\pthreads\pthread_internal.h

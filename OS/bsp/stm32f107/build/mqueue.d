@@ -1,0 +1,16 @@
+.\build\mqueue.o: ..\..\components\pthreads\mqueue.c
+.\build\mqueue.o: ..\..\components\pthreads\mqueue.h
+.\build\mqueue.o: ..\..\include\rtthread.h
+.\build\mqueue.o: ..\..\include\rtdef.h
+.\build\mqueue.o: .\rtconfig.h
+.\build\mqueue.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\mqueue.o: ..\..\include\rtdebug.h
+.\build\mqueue.o: ..\..\include\rtservice.h
+.\build\mqueue.o: ..\..\include\rtm.h
+.\build\mqueue.o: ..\..\include\rtthread.h
+.\build\mqueue.o: ..\..\components\pthreads\pthread.h
+.\build\mqueue.o: ..\..\components\pthreads\posix_types.h
+.\build\mqueue.o: d:\Keil\ARM\RV31\INC\stddef.h
+.\build\mqueue.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\mqueue.o: d:\Keil\ARM\RV31\INC\time.h
+.\build\mqueue.o: ..\..\components\pthreads\pthread_internal.h

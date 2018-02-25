@@ -1,0 +1,12 @@
+.\build\rand.o: ..\..\components\libc\minilibc\rand.c
+.\build\rand.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\build\rand.o: d:\Keil\ARM\RV31\INC\stdint.h
+.\build\rand.o: ..\..\components\libc\minilibc\sys/types.h
+.\build\rand.o: ..\..\include\rtthread.h
+.\build\rand.o: ..\..\include\rtdef.h
+.\build\rand.o: .\rtconfig.h
+.\build\rand.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\rand.o: ..\..\include\rtdebug.h
+.\build\rand.o: ..\..\include\rtservice.h
+.\build\rand.o: ..\..\include\rtm.h
+.\build\rand.o: ..\..\include\rtthread.h

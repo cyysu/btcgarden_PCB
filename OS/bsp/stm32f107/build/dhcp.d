@@ -1,0 +1,17 @@
+.\build\dhcp.o: ..\..\components\net\lwip\src\core\dhcp.c
+.\build\dhcp.o: ..\..\components\net\lwip\src\include\lwip/opt.h
+.\build\dhcp.o: ..\..\components\net\lwip\src\lwipopts.h
+.\build\dhcp.o: .\rtconfig.h
+.\build\dhcp.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\build\dhcp.o: ..\..\components\net\lwip\src\include\lwip/debug.h
+.\build\dhcp.o: ..\..\components\net\lwip\src\include\lwip/arch.h
+.\build\dhcp.o: ..\..\components\net\lwip\src\arch\include\arch/cc.h
+.\build\dhcp.o: ..\..\include\rthw.h
+.\build\dhcp.o: ..\..\include\rtthread.h
+.\build\dhcp.o: ..\..\include\rtdef.h
+.\build\dhcp.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\dhcp.o: ..\..\include\rtdebug.h
+.\build\dhcp.o: ..\..\include\rtservice.h
+.\build\dhcp.o: ..\..\include\rtm.h
+.\build\dhcp.o: ..\..\include\rtthread.h
+.\build\dhcp.o: d:\Keil\ARM\RV31\INC\string.h

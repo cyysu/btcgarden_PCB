@@ -1,0 +1,17 @@
+.\build\cjson.o: ..\..\cJSON\cJSON.c
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\stdio.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\math.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\float.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\limits.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\ctype.h
+.\build\cjson.o: ..\..\cJSON\cJSON.h
+.\build\cjson.o: ..\..\include\rtthread.h
+.\build\cjson.o: ..\..\include\rtdef.h
+.\build\cjson.o: .\rtconfig.h
+.\build\cjson.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\cjson.o: ..\..\include\rtdebug.h
+.\build\cjson.o: ..\..\include\rtservice.h
+.\build\cjson.o: ..\..\include\rtm.h
+.\build\cjson.o: ..\..\include\rtthread.h

@@ -1,0 +1,15 @@
+.\build\dfs.o: ..\..\components\dfs\src\dfs.c
+.\build\dfs.o: ..\..\components\dfs\include\dfs.h
+.\build\dfs.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\dfs.o: ..\..\components\dfs\include\dfs_fs.h
+.\build\dfs.o: ..\..\components\dfs\include\dfs_def.h
+.\build\dfs.o: ..\..\include\rtthread.h
+.\build\dfs.o: ..\..\include\rtdef.h
+.\build\dfs.o: .\rtconfig.h
+.\build\dfs.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\dfs.o: ..\..\include\rtdebug.h
+.\build\dfs.o: ..\..\include\rtservice.h
+.\build\dfs.o: ..\..\include\rtm.h
+.\build\dfs.o: ..\..\include\rtthread.h
+.\build\dfs.o: d:\Keil\ARM\RV31\INC\stdio.h
+.\build\dfs.o: ..\..\components\dfs\include\dfs_file.h

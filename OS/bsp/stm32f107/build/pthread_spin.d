@@ -1,0 +1,14 @@
+.\build\pthread_spin.o: ..\..\components\pthreads\pthread_spin.c
+.\build\pthread_spin.o: ..\..\components\pthreads\pthread.h
+.\build\pthread_spin.o: ..\..\include\rtthread.h
+.\build\pthread_spin.o: ..\..\include\rtdef.h
+.\build\pthread_spin.o: .\rtconfig.h
+.\build\pthread_spin.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\pthread_spin.o: ..\..\include\rtdebug.h
+.\build\pthread_spin.o: ..\..\include\rtservice.h
+.\build\pthread_spin.o: ..\..\include\rtm.h
+.\build\pthread_spin.o: ..\..\include\rtthread.h
+.\build\pthread_spin.o: ..\..\components\pthreads\posix_types.h
+.\build\pthread_spin.o: d:\Keil\ARM\RV31\INC\stddef.h
+.\build\pthread_spin.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\pthread_spin.o: d:\Keil\ARM\RV31\INC\time.h

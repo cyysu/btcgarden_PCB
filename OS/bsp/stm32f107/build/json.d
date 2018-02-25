@@ -1,0 +1,13 @@
+.\build\json.o: applications\json.c
+.\build\json.o: ..\..\include\rtthread.h
+.\build\json.o: ..\..\include\rtdef.h
+.\build\json.o: .\rtconfig.h
+.\build\json.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build\json.o: ..\..\include\rtdebug.h
+.\build\json.o: ..\..\include\rtservice.h
+.\build\json.o: ..\..\include\rtm.h
+.\build\json.o: ..\..\include\rtthread.h
+.\build\json.o: applications\JSON_parser.h
+.\build\json.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\build\json.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\build\json.o: applications\json.h

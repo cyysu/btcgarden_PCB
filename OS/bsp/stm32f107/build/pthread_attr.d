@@ -1,0 +1,15 @@
+.\build\pthread_attr.o: ..\..\components\pthreads\pthread_attr.c
+.\build\pthread_attr.o: ..\..\include\rtthread.h
+.\build\pthread_attr.o: ..\..\include\rtdef.h
+.\build\pthread_attr.o: .\rtconfig.h
+.\build\pthread_attr.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\pthread_attr.o: ..\..\include\rtdebug.h
+.\build\pthread_attr.o: ..\..\include\rtservice.h
+.\build\pthread_attr.o: ..\..\include\rtm.h
+.\build\pthread_attr.o: ..\..\include\rtthread.h
+.\build\pthread_attr.o: ..\..\components\pthreads\pthread.h
+.\build\pthread_attr.o: ..\..\components\pthreads\posix_types.h
+.\build\pthread_attr.o: d:\Keil\ARM\RV31\INC\stddef.h
+.\build\pthread_attr.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\pthread_attr.o: d:\Keil\ARM\RV31\INC\time.h
+.\build\pthread_attr.o: ..\..\components\pthreads\sched.h

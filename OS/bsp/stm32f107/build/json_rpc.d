@@ -1,0 +1,14 @@
+.\build\json_rpc.o: applications\json_rpc.c
+.\build\json_rpc.o: ..\..\include\rtthread.h
+.\build\json_rpc.o: ..\..\include\rtdef.h
+.\build\json_rpc.o: .\rtconfig.h
+.\build\json_rpc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build\json_rpc.o: ..\..\include\rtdebug.h
+.\build\json_rpc.o: ..\..\include\rtservice.h
+.\build\json_rpc.o: ..\..\include\rtm.h
+.\build\json_rpc.o: ..\..\include\rtthread.h
+.\build\json_rpc.o: applications\json.h
+.\build\json_rpc.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\build\json_rpc.o: ..\..\components\finsh\finsh.h
+.\build\json_rpc.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\build\json_rpc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

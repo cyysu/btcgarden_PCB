@@ -1,0 +1,10 @@
+.\build\json_lewei.o: applications\json_lewei.c
+.\build\json_lewei.o: applications\json.h
+.\build\json_lewei.o: ..\..\include\rtthread.h
+.\build\json_lewei.o: ..\..\include\rtdef.h
+.\build\json_lewei.o: .\rtconfig.h
+.\build\json_lewei.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build\json_lewei.o: ..\..\include\rtdebug.h
+.\build\json_lewei.o: ..\..\include\rtservice.h
+.\build\json_lewei.o: ..\..\include\rtm.h
+.\build\json_lewei.o: ..\..\include\rtthread.h

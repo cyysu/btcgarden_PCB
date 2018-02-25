@@ -1,0 +1,10 @@
+.\build\thread.o: ..\..\src\thread.c
+.\build\thread.o: ..\..\include\rtthread.h
+.\build\thread.o: ..\..\include\rtdef.h
+.\build\thread.o: .\rtconfig.h
+.\build\thread.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\thread.o: ..\..\include\rtdebug.h
+.\build\thread.o: ..\..\include\rtservice.h
+.\build\thread.o: ..\..\include\rtm.h
+.\build\thread.o: ..\..\include\rtthread.h
+.\build\thread.o: ..\..\include\rthw.h

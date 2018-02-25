@@ -1,0 +1,11 @@
+.\build\qsort.o: ..\..\components\libc\minilibc\qsort.c
+.\build\qsort.o: ..\..\components\libc\minilibc\sys/types.h
+.\build\qsort.o: ..\..\include\rtthread.h
+.\build\qsort.o: ..\..\include\rtdef.h
+.\build\qsort.o: .\rtconfig.h
+.\build\qsort.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\qsort.o: ..\..\include\rtdebug.h
+.\build\qsort.o: ..\..\include\rtservice.h
+.\build\qsort.o: ..\..\include\rtm.h
+.\build\qsort.o: ..\..\include\rtthread.h
+.\build\qsort.o: d:\Keil\ARM\RV31\INC\stdlib.h

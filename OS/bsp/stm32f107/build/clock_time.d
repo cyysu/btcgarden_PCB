@@ -1,0 +1,14 @@
+.\build\clock_time.o: ..\..\components\pthreads\clock_time.c
+.\build\clock_time.o: ..\..\include\rtthread.h
+.\build\clock_time.o: ..\..\include\rtdef.h
+.\build\clock_time.o: .\rtconfig.h
+.\build\clock_time.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\clock_time.o: ..\..\include\rtdebug.h
+.\build\clock_time.o: ..\..\include\rtservice.h
+.\build\clock_time.o: ..\..\include\rtm.h
+.\build\clock_time.o: ..\..\include\rtthread.h
+.\build\clock_time.o: ..\..\components\pthreads\pthread.h
+.\build\clock_time.o: ..\..\components\pthreads\posix_types.h
+.\build\clock_time.o: d:\Keil\ARM\RV31\INC\stddef.h
+.\build\clock_time.o: d:\Keil\ARM\RV31\INC\string.h
+.\build\clock_time.o: d:\Keil\ARM\RV31\INC\time.h

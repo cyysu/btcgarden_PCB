@@ -1,0 +1,1 @@
+--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork -I "d:\Keil\ARM\CMSIS\Include" -I "d:\Keil\ARM\INC\ST\STM32F10x" --list ".\context_rvds.lst" --xref -o ".\build\context_rvds.o" --depend ".\build\context_rvds.d" "..\..\libcpu\arm\cortex-m3\context_rvds.S"

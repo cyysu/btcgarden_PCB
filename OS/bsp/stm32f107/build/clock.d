@@ -1,0 +1,10 @@
+.\build\clock.o: ..\..\src\clock.c
+.\build\clock.o: ..\..\include\rthw.h
+.\build\clock.o: ..\..\include\rtthread.h
+.\build\clock.o: ..\..\include\rtdef.h
+.\build\clock.o: .\rtconfig.h
+.\build\clock.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\clock.o: ..\..\include\rtdebug.h
+.\build\clock.o: ..\..\include\rtservice.h
+.\build\clock.o: ..\..\include\rtm.h
+.\build\clock.o: ..\..\include\rtthread.h

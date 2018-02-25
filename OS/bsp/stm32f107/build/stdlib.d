@@ -1,0 +1,11 @@
+.\build\stdlib.o: ..\..\components\libc\minilibc\stdlib.c
+.\build\stdlib.o: ..\..\include\rtthread.h
+.\build\stdlib.o: ..\..\include\rtdef.h
+.\build\stdlib.o: .\rtconfig.h
+.\build\stdlib.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\build\stdlib.o: ..\..\include\rtdebug.h
+.\build\stdlib.o: ..\..\include\rtservice.h
+.\build\stdlib.o: ..\..\include\rtm.h
+.\build\stdlib.o: ..\..\include\rtthread.h
+.\build\stdlib.o: ..\..\components\libc\minilibc\stdlib.h
+.\build\stdlib.o: ..\..\components\libc\minilibc\sys/types.h
